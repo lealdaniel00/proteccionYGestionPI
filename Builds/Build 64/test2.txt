@@ -1,0 +1,58 @@
+1
+&0.635
+Dados dos estados, si la probabilidad de pasar de 'a' a 'b' es de 0.365 cual es la probabilidad de permanecer en 'a'.
+
+2
+&3
+Si todas las probabilidades en una matriz de transicion son 0.33 cuantos estados existen.
+
+3
+&4
+Si 'n' es el numero de pasos y m tiene un valor de 3  y (m = n - 1) cual es el numero de pasos
+
+4
+&0.25
+Si P12 = 0.50 y P23 = 0.50 entonces P12*P23
+
+5
+&0.20
+Si P12 = 0.50 y P23 = 0.40 entonces P12*P23
+
+6
+&6
+Si 'M' es el numero de estados y 'n' el numero de pasos y m tiene un valor de 5 y (m = n - 1) cual es el numero de pasos
+
+7
+&3
+Si 'M' es el numero de estados (los estados son lluvia, sol, llovizna) y 'n' el numero de pasos y m tiene un valor de 3 y (m = n - 1), y cual es el numero de estados
+
+8
+&0.30
+Dado el vector de P1 [0.10,0.40,0.30,0.20] con estados iniciados en 0, la probabilidad de transicion del estado p1 a p2 es
+
+9
+&0.40
+Dado el vector de P1 [0.10,0.40,0.30,0.20] con estados iniciados en 0, la probabilidad de transicion del estado p1 a p1 es
+
+10
+&0.10
+Dado el vector de P1 [--,0.30,0.30,0.30] la probabilidad -- corresponde a
+
+11
+&0.30
+Dado el vector de P0 [0.10,--,0.30,0.30] la probabilidad -- corresponde a
+
+12
+&0.50
+La probabilidad de cada lado de una moneda
+
+13
+&50
+Si P1 = 0.25*X y X=200, P1=?
+
+14
+&0.20
+La probabilidad de cada lado de un dado de 5 caras
+
+
+
